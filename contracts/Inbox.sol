@@ -1,7 +1,7 @@
  pragma solidity ^0.4.17;
  
 
- // Contract file
+ // Contract creation file
  
  contract Inbox{
      string public message;

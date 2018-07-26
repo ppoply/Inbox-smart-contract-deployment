@@ -1,8 +1,9 @@
 # Inbox-smart-contract-deployment
 
-<strong>This project gives the developer an Introduction to coding/deploying Ethereum smart contracts .</strong>
+<strong>This project gives the developer an Introduction to creating and deploying Ethereum smart contracts .</strong>
 
 - The Contract basically stores a message on the Ethereum Blockchain(Specifically Rinkeby Test network).
+- The contract provides an option to store a message on the Blockchain and also Change its content .
 - There is no frontend for this Application since the developer has just started Coding smart contracts . Full end to end Decentrailsed applications will be coming up in future .
 - Proper testing for the contract has been done before real Deployment on the Ethereum Blockchain (Rinkeby Test Network) through Mocha test framework.
 - As expected Solidity Programming language has been used for coding the Contract (Template).
